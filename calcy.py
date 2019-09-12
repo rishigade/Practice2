@@ -1,4 +1,6 @@
 def add(x,y):
+ add(x+y) 
+echo "print addition"
     pass
 def subtract(x,y):
     pass
